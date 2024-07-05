@@ -8,3 +8,5 @@ BushDrum, named after Kate Bush, is a sfz instrument made from 44.1 kHz samples 
 ![preview.mp3](https://github.com/EwonRael/BushDrum/raw/main/preview.mp3)
 
 Happy music making!
+
+If you're like to support me [donate money](paypal.me/ewonrael)!
