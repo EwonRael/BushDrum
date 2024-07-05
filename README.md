@@ -5,6 +5,6 @@ The LinnDrum drum machine was used by many iconic musicians of the 1980s includi
 
 BushDrum, named after Kate Bush, is a sfz instrument made from 44.1 kHz samples of the original LinnDrum drum machine. It is very basic, and should work in any SFZ sampler.
 
-![Click here to listen to a sample](preview.mp3)
+![preview.mp3](https://github.com/EwonRael/BushDrum/raw/main/preview.mp3)
 
 Happy music making!
