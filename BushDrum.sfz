@@ -19,8 +19,8 @@
 <region>key=48 sample=tom-h.wav pan=15
 <region>key=49 sample=crash.wav pan=-30
 <region>key=50 sample=tom-hh.wav pan=30
+<region>key=51 sample=ride.wav pan=30
 
-<region>key=52 sample=ride.wav pan=30
 
 <region>key=54 sample=tamb.wav pan=30
 
