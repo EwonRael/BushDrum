@@ -1,0 +1,40 @@
+//  sfz definition file
+//  Samples from http://machines.hyperreal.org/manufacturers/Linn/LinnDrum/
+
+<global>loop_mode=one_shot
+
+<region>key=35 sample=kick-alt.wav
+<region>key=36 sample=kick.wav
+<region>key=37 sample=stick-m.wav
+<region>key=38 sample=snare-l.wav
+<region>key=39 sample=clap.wav
+<region>key=40 sample=snare-m.wav
+
+<region>key=42 sample=hihat-closed-short.wav
+<region>key=43 sample=tom-ll.wav pan=-30
+<region>key=44 sample=hihat-closed-long.wav
+<region>key=45 sample=tom-l.wav pan=-15
+<region>key=46 sample=hihat-open.wav
+<region>key=47 sample=tom-m.wav
+<region>key=48 sample=tom-h.wav pan=15
+<region>key=49 sample=crash.wav pan=-30
+<region>key=50 sample=tom-hh.wav pan=30
+
+<region>key=52 sample=ride.wav pan=30
+
+<region>key=54 sample=tamb.wav pan=30
+
+<region>key=56 sample=cowb.wav pan=-30
+
+
+
+<region>key=60 sample=conga-hh.wav pan=-30
+<region>key=61 sample=conga-h.wav pan=-15
+<region>key=62 sample=conga-m.wav
+<region>key=63 sample=conga-l.wav pan=15
+<region>key=64 sample=conga-ll.wav pan=30
+
+
+
+
+<region>key=69 sample=cabasa.wav pan=30
